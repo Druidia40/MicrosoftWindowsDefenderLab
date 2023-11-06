@@ -17,7 +17,7 @@ This lab consists of reviewing Windows Security Virus and threat protection, upd
 
 <p align="center">
 Click the Windows Start button and select Settings: <br/>
-<img src="https://imgur.com/a/8VWP4Tf" height="80%" width="80%" alt="Select Settings from Start Menu"/>
+<img src="https://i.imgur.com/TWqlegR.png" height="80%" width="80%" alt="Select Settings from Start Menu"/>
 <br />
 <br />
 Select the disk:  <br/>
