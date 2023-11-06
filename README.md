@@ -17,39 +17,36 @@ This lab consists of reviewing Windows Security Virus and threat protection, upd
 
 <p align="center">
 Click the Windows Start button and select Settings: <br/>
-<img src="https://i.imgur.com/TWqlegR.png" height="80%" width="80%" alt="Select Settings from Start Menu"/>
+<img src="https://i.imgur.com/TWqlegR.png" height="60%" width="60%" alt="Select Settings from Start Menu"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+On the Settings page, select Update & Security:  <br/>
+<img src="https://i.imgur.com/wY8OXFl.png" height="60%" width="60%" alt="Select Update & Security"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then select Windows Security: <br/>
+<img src="https://i.imgur.com/RuH9ech.png" height="60%" width="60%" alt="Windows Security Screen"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Virus & threat protection:  <br/>
+<img src="https://i.imgur.com/Clt4GDl.png" height="60%" width="60%" alt="Virus & Threat Protection"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Review Threats, Settings, Updates and Ransonware Protection:  <br/>
+<img src="https://i.imgur.com/6d13ZQk.png" height="60%" width="60%" alt="Virus & Threat Features"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Under Virus & threat protection updates, select Check for updates:  <br/>
+<img src="https://i.imgur.com/4dlQ9aO.png" height="60%" width="60%" alt="Check for Updates"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Under Virus & threat protection, click Quick scan:  <br/>
+<img src="https://i.imgur.com/kNZ4Tph.png" height="60%" width="60%" alt="Quick Scan"/>
+<br />
+<br />
+Review Last scan, Quarantined threats and Allowed threats:  <br/>
+<img src="https://i.imgur.com/YVUpmGn.png" height="60%" width="60%" alt="Threat History"/>
+<br />
+<br />
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
