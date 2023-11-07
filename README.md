@@ -1,9 +1,7 @@
 <h1>Microsoft Windows Defender Antivirus</h1>
-
 <h2>Description</h2>
 This lab consists of reviewing Windows Security Virus and threat protection, update threat definitions, and run Windows Defender Antivirus quick scan.
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
